@@ -1,0 +1,6 @@
+var x = 5
+var y = 10
+if x > y print 1 else if x<y print 2
+var z = x + y
+print z
+if z == 15 print 99
